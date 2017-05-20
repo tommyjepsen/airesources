@@ -1,4 +1,7 @@
+# AI Resources
+
 # Introduction
+
 
 Collection of AI Resources - everything from dataset to libraries to learning material
 
@@ -6,23 +9,24 @@ Please, you are more then welcome to contribute! The more the better.
 
 Created by Tommy Jepsen [Twitter](https://twitter.com/tommy_jepsen)
 
+## Table of Contents
 
-## Index
-
-1. [Learning material](#learning-material)
- 1.0 [Books](#books)
- 1.1 [Talks](#talks)
-
+- [Learning material](#learning-material)
+- [Books](#books)
+- [Talks](#talks)
+- [Fun stuff](#fun-stuff)
 
 
-## Learning material
+### Learning material
 
 
 ### Books
-"AI Playbook" by a16z
-http://aiplaybook.a16z.com/docs/intro/getting-started
+- ("AI Playbook" by a16z)[http://aiplaybook.a16z.com/docs/intro/getting-started] - Get started with AI
 
 ### Talks
 
-"Past, Present and Future of AI / Machine Learning (Google I/O '17)" by Google IO 17
-https://www.youtube.com/watch?v=0ueamFGdOpA
+- (Past, Present and Future of AI / Machine Learning (Google I/O '17))[https://www.youtube.com/watch?v=0ueamFGdOpA]
+
+
+### Fun stuff
+- [Creative AI](http://www.creativeai.net/) - Collection of creative AI projects
