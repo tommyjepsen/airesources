@@ -14,6 +14,7 @@ Created by Tommy Jepsen - [Twitter](https://twitter.com/tommy_jepsen)
 - [Writings](#writings)
 - [Video courses](#video-courses)
 - [Talks](#talks)
+- [Libraries](#libaries)
 - [Fun stuff](#fun-stuff)
 
 
@@ -28,6 +29,9 @@ Created by Tommy Jepsen - [Twitter](https://twitter.com/tommy_jepsen)
 ### Talks
 - [Past, Present and Future of AI / Machine Learning - Google I/O '17](https://www.youtube.com/watch?v=0ueamFGdOpA)
 - [Machine Learning APIs by Example - Google I/O '17](https://www.youtube.com/watch?v=nS_wSAAokxk)
+
+### Libaries
+- [TensorFlow](https://www.tensorflow.org/) - An open-source software library for Machine Intelligence
 
 ### Fun stuff
 - [Creative AI](http://www.creativeai.net/) - Collection of creative AI projects
