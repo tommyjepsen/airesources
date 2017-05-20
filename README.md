@@ -7,6 +7,7 @@ Created by me [Twitter](https://twitter.com/tommy_jepsen)
 ## Index
 
  1. [Learning material](#learning-material)
+ 
  1.0 [Talks](#talks)
 
 
