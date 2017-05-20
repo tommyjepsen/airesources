@@ -16,6 +16,7 @@ Created by Tommy Jepsen - [Twitter](https://twitter.com/tommy_jepsen)
 - [Talks](#talks)
 - [Libraries](#libaries)
 - [Fun stuff](#fun-stuff)
+- [Other resources](#other-resources)
 
 
 ## Resources
@@ -36,3 +37,7 @@ Created by Tommy Jepsen - [Twitter](https://twitter.com/tommy_jepsen)
 
 ### Fun stuff
 - [Creative AI](http://www.creativeai.net/) - Collection of creative AI projects
+
+
+### Other resources
+- [A list of artificial intelligence tools you can use today — for personal use](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
