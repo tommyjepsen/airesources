@@ -22,6 +22,7 @@ Created by Tommy Jepsen - [Twitter](https://twitter.com/tommy_jepsen)
 
 ### Writings
 - ["AI Playbook" by a16z](http://aiplaybook.a16z.com/docs/intro/getting-started) - Get started with AI
+- ["Artificial Intelligence" by Leonardo Araujo dos Santos](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/) - Free gitbook on Artificial Intelligence
 
 ### Video courses
 - ["Intro to Artificial Intelligence" by Udacity](https://classroom.udacity.com/courses/cs271) - Free course on getting started with AI
