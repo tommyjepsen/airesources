@@ -4,7 +4,7 @@ Collection of AI Resources - everything from dataset to libraries to learning ma
 
 Please, you are more then welcome to contribute! The more the better.
 
-Created by me [Twitter](https://twitter.com/tommy_jepsen)
+Created by Tommy Jepsen [Twitter](https://twitter.com/tommy_jepsen)
 
 
 ## Index
