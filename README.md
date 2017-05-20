@@ -1,8 +1,11 @@
 # Introduction
 
-Collection of AI 
+Collection of AI Resources - everything from dataset to libraries to learning material
+
+Please, you are more then welcome to contribute! The more the better.
 
 Created by me [Twitter](https://twitter.com/tommy_jepsen)
+
 
 ## Index
 
