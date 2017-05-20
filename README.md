@@ -7,11 +7,17 @@ Created by me [Twitter](https://twitter.com/tommy_jepsen)
 ## Index
 
 1. [Learning material](#learning-material)
- 1.0 [Talks](#talks)
+ 1.0 [Books](#books)
+ 1.1 [Talks](#talks)
 
 
 
 ## Learning material
+
+
+### Books
+"AI Playbook" by a16z
+http://aiplaybook.a16z.com/docs/intro/getting-started
 
 ### Talks
 
