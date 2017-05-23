@@ -30,7 +30,7 @@ Created by Tommy Jepsen - [Twitter](https://twitter.com/tommy_jepsen)
 - [Past, Present and Future of AI / Machine Learning - Google I/O '17](https://www.youtube.com/watch?v=0ueamFGdOpA)
 - [Machine Learning APIs by Example - Google I/O '17](https://www.youtube.com/watch?v=nS_wSAAokxk)
 - [Effective TensorFlow for Non-Experts - Google I/O '17](https://www.youtube.com/watch?v=5DknTFbcGVM)
-- [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+- [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw) - Easy and hands-on introduction to ML
 
 ### Other
 - [Creative AI](http://www.creativeai.net/) - Collection of creative AI projects
