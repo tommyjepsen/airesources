@@ -25,6 +25,7 @@ Created by Tommy Jepsen - [Twitter](https://twitter.com/tommy_jepsen)
 
 ### Courses
 - ["Intro to Artificial Intelligence" by Udacity](https://classroom.udacity.com/courses/cs271) - Free course on getting started with AI
+- [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
 
 ### Videos
 - [Past, Present and Future of AI / Machine Learning - Google I/O '17](https://www.youtube.com/watch?v=0ueamFGdOpA)
